@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+*.db
+.env
+.pytest_cache/
+screenshots/*.tmp
+.venv/
+stocksmart.db
+.DS_Store
+__pycache__/
